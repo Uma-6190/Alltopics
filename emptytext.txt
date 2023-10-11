@@ -1,0 +1,12 @@
+How to Fork a Repository?
+The forking and branching are excellent ways to contribute to an open-source project. These two features of Git allows the
+enhanced collaboration on the projects.
+Forking is a safe way to contribute. It allows us to make a rough copy of the project. We can freely experiment on the 
+project. After the final version of the project, we can create a pull request for merging.
+It is a straight-forward process. Steps for forking the repository are as follows:
+Login to the GitHub account.
+Find the GitHub repository which you want to fork.
+Click the Fork button on the upper right side of the repository's page.
+We can't fork our own repository. Only shared repositories can be fork. If someone wants to fork the repository, then he 
+must log in with his account. Let's understand the below scenario in which a user pune2016 wants to contribute to our 
+project GitExample2. When he searches or put the address of our repository, our repository will look like as follows:
