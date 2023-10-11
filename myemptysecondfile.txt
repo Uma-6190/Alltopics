@@ -1,0 +1,5 @@
+The above image shows the user interface of my repository from other contributors. We can see the fork option at the top
+right corner of the repository page. By clicking on that, the forking process will start. It will take a while to make a 
+copy of the project for other users. After the forking completed, a copy of the repository will be copied to your GitHub 
+account. It will not affect the original repository. We can freely make changes and then create a pull request for the 
+main project. The owner of the project will see your suggestion and decide whether he wants to merge the changes or not.
